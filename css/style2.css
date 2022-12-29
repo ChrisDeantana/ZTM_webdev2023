@@ -1,0 +1,20 @@
+/* .boxmodel{
+    border: 5px solid red;
+    display: inline-block;
+    padding: 5px 20px;
+    margin: 0px 20px;
+    width: 33px;
+    height: 55px;
+} */
+
+h2 {
+    color: blue;
+}
+
+p {
+    font-size: 20px;
+}
+
+span {
+    font-size: 2em; /*2 times containing element = 20px*/
+}
